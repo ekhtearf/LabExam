@@ -31,7 +31,7 @@
                 <td><input type="date" id="DOB" name="DOB"></td>
                 </tr>
                 <tr><td><label for="submit"></label>
-                <td><input type="submit" value="Submit" placeholder="Submit" id="submit"></td>
+                <td><input type="submit" value="Next" placeholder="Submit" id="submit"></td>
                 </tr>                
                 </tbody>
                 </table>
